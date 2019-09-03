@@ -1,0 +1,85 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - AVOSCloud (11.6.4)
+  - AVOSCloudIM (11.6.4):
+    - AVOSCloud (= 11.6.4)
+    - AVOSCloudIM/_ARC (= 11.6.4)
+    - AVOSCloudIM/_NOARC (= 11.6.4)
+  - AVOSCloudIM/_ARC (11.6.4):
+    - AVOSCloud (= 11.6.4)
+    - AVOSCloudIM/_NOARC (= 11.6.4)
+  - AVOSCloudIM/_NOARC (11.6.4):
+    - AVOSCloud (= 11.6.4)
+  - BmobSDK (2.3.4)
+  - JCore (2.1.1)
+  - JPush (3.2.1):
+    - JCore (< 3.0.0, >= 2.0.0)
+  - Masonry (1.1.0)
+  - MJRefresh (3.2.0)
+  - Ono (2.1.2)
+  - pop (1.0.12)
+  - RongCloudIM/IMKit (2.8.32):
+    - RongCloudIM/IMLib
+  - RongCloudIM/IMLib (2.8.32)
+  - Toast (4.0.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - AVOSCloud
+  - AVOSCloudIM
+  - BmobSDK
+  - JPush
+  - Masonry
+  - MJRefresh
+  - Ono
+  - pop (~> 1.0)
+  - RongCloudIM/IMKit (~> 2.8.3)
+  - RongCloudIM/IMLib (~> 2.8.3)
+  - Toast (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - AVOSCloud
+    - AVOSCloudIM
+    - BmobSDK
+    - JCore
+    - JPush
+    - Masonry
+    - MJRefresh
+    - Ono
+    - pop
+    - RongCloudIM
+    - Toast
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  AVOSCloud: 0f5fe2be8ce99ca6eb272243041acaa9369ba8f0
+  AVOSCloudIM: dc91b6765c2eda3c73f71dd1957059e7579295b0
+  BmobSDK: 03e9889d92b721bfc2452faa5b2c2497581abbca
+  JCore: 4072327557f0b83cc22dd4041f2f839740c0077b
+  JPush: a1ff8b8ec53fa3419b414946e4db4efa313baeae
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  Ono: 26a7c1fc4df13ece7747560a1d80655807a8a000
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  RongCloudIM: 48bfc2fcb8d7cae8ce1e19cb5fb26d6d90616375
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+
+PODFILE CHECKSUM: f77bd83db77f647ec51f603b9591a2b556956c98
+
+COCOAPODS: 1.6.0
